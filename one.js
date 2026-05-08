@@ -7,7 +7,7 @@ console.log(ans);
 
 // what is nodejs
 
-//nojs code likha gya h c++ ka code jo ki liya gya h chrome browser ke v8 engine ke code se....aur is c++ code jisko liya gya h usey wrap kr diya gya h js code se and yeh humei allow krta h ki hm js code likhein aur ye js code accept karega and c++ ke basis par apko ek server env bna dega par sirf tb tk jb tk code chlega  jab tk apka node (v8 and js wrapper) on h  
+//nodejs code likha gya h c++ ka code jo ki liya gya h chrome browser ke v8 engine ke code se....aur is c++ code jisko liya gya h usey wrap kr diya gya h js code se and yeh humei allow krta h ki hm js code likhein aur ye js code accept karega and c++ ke basis par apko ek server env bna dega par sirf tb tk jb tk code chlega  jab tk apka node (v8 and js wrapper) on h  
 
 
 //js server nhi bna skta h
